@@ -69,4 +69,4 @@ GemDocs transforms how you interact with PDF documents by making them **searchab
 
 ## 💡 Use Case: Real-World Scenario
 
-Imagine a researcher who needs to analyze multiple PDFs related to a particular topic. Instead of manually reading each document, they can upload them to CarZone, which then processes and indexes the documents. The researcher can ask specific questions, and the system will return the most relevant sections from all the uploaded PDFs. This use case shows how Google Gemini Pro, FAISS, and LangChain can streamline document retrieval and analysis.
+Imagine a researcher who needs to analyze multiple PDFs related to a particular topic. Instead of manually reading each document, they can upload them to GemDocs, which then processes and indexes the documents. The researcher can ask specific questions, and the system will return the most relevant sections from all the uploaded PDFs. This use case shows how Google Gemini Pro, FAISS, and LangChain can streamline document retrieval and analysis.
